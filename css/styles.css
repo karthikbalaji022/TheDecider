@@ -1,0 +1,46 @@
+body{
+  background-color:#f4dada;
+  text-align: center;
+}
+ .heading h1{
+       font-family: 'Pacifico', cursive;
+       font-size: 4.5rem;
+ }
+#winner{
+  font-family: 'Indie Flower', cursive;
+}
+#cent{
+display:flex;
+justify-content: center;
+flex-flow:row wrap; 
+}
+.container{
+  text-align: center;
+}
+.featurebox{
+text-align: center;
+ margin:15px;
+
+}
+h3{
+  margin:15px;
+  font-family: 'Handlee', cursive;
+}
+.shuffle{
+  color: white;
+  margin:15px;
+  width:10rem;
+}
+
+#foot{
+  margin: 30px 0 10px 0;
+}
+
+.contact{
+  margin:10px;
+  padding:16px 16px;
+}
+.icon{
+  font-size: 3rem;
+  margin:5px;
+}
